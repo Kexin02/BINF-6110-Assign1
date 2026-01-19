@@ -1,4 +1,4 @@
-# BINF_6110-Assign1
+# BINF*6110 Assignment 1
 ## Introduction
 
 Whole-genome assembly and reference-based genome comparison are fundamental tasks in bioinformatics and are widely applied in microbial genomics, pathogen surveillance, and evolutionary studies (Quainoo et al., 2017). The goal of this assignment is to assemble a consensus genome of *Salmonella enterica* from raw Oxford Nanopore sequencing reads and to compare the assembled genome to a reference genome obtained from NCBI through alignment and variant analysis.
