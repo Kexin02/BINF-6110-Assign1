@@ -58,46 +58,46 @@ metaFlye: Scalable long-read metagenome assembly using repeat graphs.
 *Nature Methods, 17*(11), 1103–1110.   
 https://doi.org/10.1038/s41592-020-00971-x  
 
-Li, C., Tyson, G. H., Hsu, C.-H., Harrison, L., Strain, E., Tran, T.-T., Tillman, G. E., Dessai, U., McDermott, P. F., & Zhao, S. (2021). 
-Long-Read Sequencing Reveals Evolution and Acquisition of Antimicrobial Resistance and Virulence Genes in Salmonella enterica. 
-*Frontiers in Microbiology, 12*. 
-https://doi.org/10.3389/fmicb.2021.777817
+Li, C., Tyson, G. H., Hsu, C.-H., Harrison, L., Strain, E., Tran, T.-T., Tillman, G. E., Dessai, U., McDermott, P. F., & Zhao, S. (2021).   
+Long-Read Sequencing Reveals Evolution and Acquisition of Antimicrobial Resistance and Virulence Genes in Salmonella enterica.   
+*Frontiers in Microbiology, 12*.   
+https://doi.org/10.3389/fmicb.2021.777817  
 
-Li, H. (2018). Minimap2: Pairwise alignment for nucleotide sequences. 
-*Bioinformatics, 34*(18), 3094–3100. 
-https://doi.org/10.1093/bioinformatics/bty191
+Li, H. (2018). Minimap2: Pairwise alignment for nucleotide sequences.   
+*Bioinformatics, 34*(18), 3094–3100.   
+https://doi.org/10.1093/bioinformatics/bty191  
 
-Liu, W., Wu, S., Lin, Q., Gao, S., Ding, F., Zhang, X., Aljohi, H. A., Yu, J., & Hu, S. (2018). 
-RGAAT: A Reference-based Genome Assembly and Annotation Tool for New Genomes and Upgrade of Known Genomes. 
-*Genomics, Proteomics & Bioinformatics, 16*(5), 373–381. 
-https://doi.org/10.1016/j.gpb.2018.03.006
+Liu, W., Wu, S., Lin, Q., Gao, S., Ding, F., Zhang, X., Aljohi, H. A., Yu, J., & Hu, S. (2018).   
+RGAAT: A Reference-based Genome Assembly and Annotation Tool for New Genomes and Upgrade of Known Genomes.   
+*Genomics, Proteomics & Bioinformatics, 16*(5), 373–381.   
+https://doi.org/10.1016/j.gpb.2018.03.006  
 
-Quainoo, S., Coolen, J. P. M., van Hijum, S. A. F. T., Huynen, M. A., Melchers, W. J. G., van Schaik, W., & Wertheim, H. F. L. (2017). 
-Whole-Genome Sequencing of Bacterial Pathogens: The Future of Nosocomial Outbreak Analysis. 
-*Clinical Microbiology Reviews, 30*(4), 1015–1063. 
-https://doi.org/10.1128/cmr.00016-17
+Quainoo, S., Coolen, J. P. M., van Hijum, S. A. F. T., Huynen, M. A., Melchers, W. J. G., van Schaik, W., & Wertheim, H. F. L. (2017).   
+Whole-Genome Sequencing of Bacterial Pathogens: The Future of Nosocomial Outbreak Analysis.   
+*Clinical Microbiology Reviews, 30*(4), 1015–1063.   
+https://doi.org/10.1128/cmr.00016-17  
 
-Robinson, J. T., Thorvaldsdóttir, H., Winckler, W., Guttman, M., Lander, E. S., Getz, G., & Mesirov, J. P. (2011). 
-Integrative genomics viewer. 
-*Nature Biotechnology, 29*(1), 24–26. 
-https://doi.org/10.1038/nbt.1754
+Robinson, J. T., Thorvaldsdóttir, H., Winckler, W., Guttman, M., Lander, E. S., Getz, G., & Mesirov, J. P. (2011).   
+Integrative genomics viewer.   
+*Nature Biotechnology, 29*(1), 24–26.   
+https://doi.org/10.1038/nbt.1754  
 
-Shaw, J., & Yu, Y. W. (2023). 
-Proving sequence aligners can guarantee accuracy in almost O(m log n) time through an average-case analysis of the seed-chain-extend heuristic. 
-*Genome Research, 33*(7), 1175–1187. 
-https://doi.org/10.1101/gr.277637.122
+Shaw, J., & Yu, Y. W. (2023).   
+Proving sequence aligners can guarantee accuracy in almost O(m log n) time through an average-case analysis of the seed-chain-extend heuristic.   
+*Genome Research, 33*(7), 1175–1187.   
+https://doi.org/10.1101/gr.277637.122  
 
-Whiteford, N., Haslam, N., Weber, G., Prügel-Bennett, A., Essex, J. W., Roach, P. L., Bradley, M., & Neylon, C. (2005). 
-An analysis of the feasibility of short read sequencing. 
-*Nucleic Acids Research, 33*(19), e171. 
-https://doi.org/10.1093/nar/gni170
+Whiteford, N., Haslam, N., Weber, G., Prügel-Bennett, A., Essex, J. W., Roach, P. L., Bradley, M., & Neylon, C. (2005).   
+An analysis of the feasibility of short read sequencing.   
+*Nucleic Acids Research, 33*(19), e171.   
+https://doi.org/10.1093/nar/gni170  
 
-Zadesenets, K. S., Ershov, N. I., & Rubtsov, N. B. (2017). 
-Whole-genome sequencing of eukaryotes: From sequencing of DNA fragments to a genome assembly. 
-*Russian Journal of Genetics, 53*(6), 631–639. 
-https://doi.org/10.1134/S102279541705012X
+Zadesenets, K. S., Ershov, N. I., & Rubtsov, N. B. (2017).   
+Whole-genome sequencing of eukaryotes: From sequencing of DNA fragments to a genome assembly.   
+*Russian Journal of Genetics, 53*(6), 631–639.   
+https://doi.org/10.1134/S102279541705012X  
 
-Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). 
-Comparison of De Novo Assembly Strategies for Bacterial Genomes. 
-*International Journal of Molecular Sciences, 22*(14), 7668. 
-https://doi.org/10.3390/ijms22147668
+Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021).   
+Comparison of De Novo Assembly Strategies for Bacterial Genomes.   
+*International Journal of Molecular Sciences, 22*(14), 7668.   
+https://doi.org/10.3390/ijms22147668  
