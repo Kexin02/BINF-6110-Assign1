@@ -23,6 +23,12 @@ The draft assembly will be compared to a reference genome for *Salmonella enteri
 
 Differences between the assembled genome and the reference genome, including single-nucleotide variants and small insertions or deletions, will be identified using bcftools (v1.23) based on the alignment results (Danecek et al., 2021). Variant calls and alignments will be visualized using Integrative Genomics Viewer to inspect read coverage, alignment quality, and regions of divergence (Robinson et al., 2011). Visualization will be used to assess assembly accuracy and to support interpretation of observed differences between the assembled genome and the reference.
 
+## Results
+
+
+## Discussion
+
+
 ## References
 Amarasinghe, S. L., Su, S., Dong, X., Zappia, L., Ritchie, M. E., & Gouil, Q. (2020).   
 Opportunities and challenges in long-read sequencing data analysis.   
